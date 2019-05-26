@@ -1,2 +1,0 @@
-# DauntlessCalculator
-Created with CodeSandbox
